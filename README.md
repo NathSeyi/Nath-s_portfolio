@@ -3,7 +3,8 @@
 Welcome to my data analytics portfolio. Here I showcase project using Excel, SQL, Power BI to extract insights from data.
 
 ## About Me
-I am a data analyst passionate about transforming raw data into meaningful insight that support business decision-making.
+I am a data analyst passionate about transforming raw data into meaningful insights that support data-driven decision-making.
+My work focuses on data cleaning, exploratory data analysis and building dashboards using Excel, SQL, and Power BI.
 
 ## Skills 
 - Data Cleaning
@@ -26,7 +27,7 @@ Analyzed health insurance data to identify insured rate and total market coverag
 ## Key Insights 
 
 -   Florida has the highest coverage by states
--   West Virgina has the highest uninsured rate improvement (2010-2015) by states
+-   West Virginia has the highest uninsured rate improvement (2010-2015) by states
 
 
 ### 2. Marketing data analysis
@@ -43,7 +44,7 @@ Analyzed  Marketing data to identify marketing engagement and performance via cl
 ## Key Insights
   
 -  London had the highest total spent by location
--  Septemember generated the highest spent by month
+-  September generated the highest spent by month
 -  Instagram had the highest spent by channel.
 
 ### 3. Debt data analysis
@@ -60,7 +61,7 @@ Analyzed debt data to identify debt values and trend for different sectors.
 ## Key Insights
 
 - In central government sector, Yemen had the highest debt value 
-- In general government sector, United state had the highest debt value
+- In general government sector, United states had the highest debt value
 - In non-fin corporate sector, Sweden had the highest debt value
 
 ### 4. Instagram data analysis
@@ -74,9 +75,9 @@ Analyzed instagram data to identify instagram engagement and performance
 <img width="1585" height="895" alt="Screenshot 2025-06-11 204406" src="https://github.com/user-attachments/assets/fd0d1aad-564c-4cba-8511-8cefa53df448" />
 
 ## Key Insights
-- IG carousel generate the highest likes by post type
-- IG carousel generate the highest comments by post type
-- IG carousel generate the highest shares by post type
+- IG carousel generated the highest likes by post type
+- IG carousel generated the highest comments by post type
+- IG carousel generated the highest shares by post type
 ## Contact
 
 LindedIn:
