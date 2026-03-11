@@ -1,5 +1,7 @@
 # Nath-s_portfolio
+
 Data Analytics Portfolio
+
 Welcome to my data analytics portfolio. Here I showcase project using Excel, SQL, Power BI to extract insights from data.
 
 ## Skills 
