@@ -3,7 +3,7 @@
 Welcome to my data analytics portfolio. Here I showcase project using Excel, SQL, Power BI to extract insights from data.
 
 ## About Me
-I am a data analyst passionate about transformingg raw data into meaningful insight that support business decision-making.
+I am a data analyst passionate about transforming raw data into meaningful insight that support business decision-making.
 
 ## Skills 
 - Data Cleaning
