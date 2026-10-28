@@ -31,7 +31,11 @@ Business Recommendations
 * Consider product costs and profit margins before making decisions about product profitability.
 
 Project Files
+
+Dashboard Preview
+
 *[Retail_sales_analysis.sql](https://github.com/user-attachments/files/34075907/Retail_sales_analysis.sql)
+
 <img width="1684" height="1080" alt="Retail_Sales_DB" src="https://github.com/user-attachments/assets/8758db29-4d8a-4c63-88e3-a38db4edb01a" />
 
 
