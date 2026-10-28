@@ -30,9 +30,9 @@ Business Recommendations
 * Investigate product and regional performance to identify growth opportunities.
 * Consider product costs and profit margins before making decisions about product profitability.
 
-Project Files
-
 Dashboard Preview
+
+Project Files
 
 *[Retail_sales_analysis.sql](https://github.com/user-attachments/files/34075907/Retail_sales_analysis.sql)
 
