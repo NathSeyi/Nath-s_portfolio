@@ -1,0 +1,61 @@
+Retail Sales Analysis Project
+
+Project Overview
+
+This project analyzes retail sales data using SQL and Power BI to evaluate sales performance, identify top-performing products and regions, and generate insights that support business decision-making.
+
+Objectives
+
+* Analyze total revenue and quantity sold.
+* Identify the highest-performing products.
+* Compare sales performance across regions.
+* Calculate key performance indicators (KPIs).
+* Evaluate product contributions to total revenue.
+* Develop data-driven business recommendations.
+
+Tools and Technologies
+
+* SQL (MySQL Workbench): Data querying, aggregation, grouping, and analysis.
+* Microsoft Power BI: Interactive dashboard development and visualization.
+* DAX: KPI calculations and revenue contribution measures.
+* Excel/CSV: Data storage and preparation, where applicable.
+
+Key Performance Indicators
+
+* Total Revenue: ₦9.15 million
+* Total Quantity Sold: 35 units
+* Total Orders: 10
+* Average Order Value: ₦915,000
+
+Key Findings
+
+Product Performance
+
+* Phones generated the highest revenue at ₦3.75 million.
+* Phones also recorded the highest quantity sold, with 15 units.
+* Phones contributed approximately 41% of total revenue.
+* Tablets generated ₦1.80 million in revenue and sold 12 units.
+
+Regional Performance
+
+* Lagos generated the highest revenue at ₦1.50 million.
+* Lagos also recorded the highest quantity sold, with 6 units.
+
+Business Recommendations
+
+1. Maintain adequate stock of high-performing products, particularly phones.
+2. Investigate the factors contributing to Lagos’s strong sales performance.
+3. Evaluate other products individually before making inventory decisions.
+4. Monitor product and regional performance to identify growth opportunities.
+
+Important Notes
+
+The dataset did not include product cost information. Therefore, actual profit and profit margin could not be calculated from the original dataset. Any cost and profit calculations explored during practice were illustrative examples, not findings from the original dataset.
+
+Conclusion
+
+This project demonstrates the use of SQL and Power BI to analyze retail sales performance, develop interactive visualizations, identify business trends within the available data, and communicate actionable recommendations.
+
+Author
+
+Olatunji Nathaniel Oluwaseyi
