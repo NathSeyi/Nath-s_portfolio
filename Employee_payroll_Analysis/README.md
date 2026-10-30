@@ -37,8 +37,11 @@ Business Recommendations
 * Use regular payroll reports to support management decisions.
 
 Project Files
+
 *[Employee Payroll Analysis.docx](https://github.com/user-attachments/files/34185271/Employee.Payroll.Analysis.docx)
+
 *[Employee_Payroll_analysis.xlsx](https://github.com/user-attachments/files/34185252/Employee_Payroll_analysis.xlsx)
+
 *<img width="1687" height="1080" alt="Employee payroll anaylsis" src="https://github.com/user-attachments/assets/8b1ec5ea-0f4d-48c0-a677-c345c5272c51" />
 
 
