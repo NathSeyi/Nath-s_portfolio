@@ -3,8 +3,7 @@
 Welcome to my data analytics portfolio. Here I showcase project using Excel, SQL, Power BI to extract insights from data.
 
 ## About Me
-I am a data analyst passionate about transforming raw data into meaningful insights that support data-driven decision-making.
-My work focuses on data cleaning, exploratory data analysis and building dashboards using Excel, SQL, and Power BI.
+I am an analytical professional with a background in Business Administration and a growing focus on Financial Analysis and Data Analytics. I use Excel, SQL and Power BI to analyse financial and business data, evaluate performance, identify trends and present insights that support informed business decisions.
 
 ## Skills 
 - Data Cleaning
