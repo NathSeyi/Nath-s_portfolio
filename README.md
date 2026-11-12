@@ -77,6 +77,25 @@ Analyzed instagram data to identify instagram engagement and performance
 - IG carousel generated the highest likes by post type
 - IG carousel generated the highest comments by post type
 - IG carousel generated the highest shares by post type
+
+
+
+### 5.Financial Statement Analysis (2025–2026)
+
+Tools: Microsoft Excel, Microsoft Word
+
+Analysed and compared financial performance across two years using the Income Statement, Balance Sheet and Cash Flow Statement.
+
+Key areas covered:
+
+* Profitability and liquidity analysis
+* Financial ratio calculations
+* Revenue and profit growth
+* Cash flow performance
+* Management recommendations
+
+
+
 ## Contact
 
 LindedIn:
